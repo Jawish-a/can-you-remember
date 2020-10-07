@@ -4,9 +4,6 @@ import "./App.css";
 //Data
 import cards from "./data";
 
-// Card Back Image
-import cardBack from "./images/CardBack.jpg";
-
 // Components
 import Card from "./Components/Card";
 
